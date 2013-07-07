@@ -18,3 +18,7 @@ The tools that I think will be needed are screwdrivers, allen (hex) key, wire cu
 All structural support parts are printed, only the obvious items aren’t (frame, smooth rods, threaded rod etc).
 
 No Bowden tube for the extruders are used. The current design is for a direct drive extruder – the hobbed bolt is directly attached to the stepper – which reduces the size of the extruder and reduces the need for large gears. The actual reason for no Bowden tubes is purely down to I want to print flex-polyester and I haven’t been able to get it to work through my current Huxley’s Bowden. I am considering having one direct drive extruder and maybe replace the second with a Bowden system to reduce carriage weight. This would also allow for another hotend to be potentially added.
+
+Mechanical test video is available: http://youtu.be/PYqmosbdoSI
+
+Build logo on my blog: HTTP://http://fabing3d.wordpress.com/category/dsf/
