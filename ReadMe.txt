@@ -1,10 +1,11 @@
 For some time I have wanted to design my own printer. Partly so that it will be able to do what I want and secondly for the challenge. Obviously it is much easier these days given the number of designs out there. For my design I had several things that it must be capable of:
 
-More than one extruder
-Use as many of the same vitamins as possible
-Be simple to construct with the minimum of tools
-Use as many printable parts as possible
-No Bowden tube
+1) More than one extruder
+2) Use as many of the same vitamins as possible
+3) Be simple to construct with the minimum of tools
+4) Use as many printable parts as possible
+5) No Bowden tube
+
 Now I am not above thinking that some of those ideals may have to be altered but so far, in the planning stage, I think I have hit all of them.
 
 So taking each point in turn:
@@ -17,8 +18,8 @@ The tools that I think will be needed are screwdrivers, allen (hex) key, wire cu
 
 All structural support parts are printed, only the obvious items aren’t (frame, smooth rods, threaded rod etc).
 
-No Bowden tube for the extruders are used. The current design is for a direct drive extruder – the hobbed bolt is directly attached to the stepper – which reduces the size of the extruder and reduces the need for large gears. The actual reason for no Bowden tubes is purely down to I want to print flex-polyester and I haven’t been able to get it to work through my current Huxley’s Bowden. I am considering having one direct drive extruder and maybe replace the second with a Bowden system to reduce carriage weight. This would also allow for another hotend to be potentially added.
+No Bowden tube for the extruders are used. The current design is for a direct drive extruder – the hobbed bolt is directly attached to the stepper – which reduces the size of the extruder and the need for large printed gears. The actual reason for no Bowden tubes is purely down to I want to print flex-polyester and I haven’t been able to get it to work through my current Huxley’s Bowden. I am considering having one direct drive extruder and maybe replace the second with a Bowden system to reduce carriage weight. This would also allow for another hotend to be potentially added.
 
 Mechanical test video is available: http://youtu.be/PYqmosbdoSI
 
-Build logo on my blog: HTTP://http://fabing3d.wordpress.com/category/dsf/
+Build log on my blog: http://fabing3d.wordpress.com/category/dsf/
